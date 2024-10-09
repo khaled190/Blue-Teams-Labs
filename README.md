@@ -18,13 +18,19 @@ The challenges can be downloaded [here](https://cyberdefenders.org/blueteam-ctf-
 
 ## Let’s start to answer the questions !!!
 ### 1. What is the IP address of the Windows VM that gets infected?
-### Answer: 
+### Answer:  
+
+ip is 172.16.165.165
 
 - To find the IP we should analyse the traffic flow.
 - We usually use wireshark for it, but to feel a CLI, we use Tshark.
-ip is 172.16.165.165
 
 ![1](https://github.com/user-attachments/assets/ff875623-7264-4a4c-add7-229cd10dc309)
+
+![1 1](https://github.com/user-attachments/assets/af9629d1-6414-42a1-9dd3-6765780e1c91)
+
+
+
 
 
 
