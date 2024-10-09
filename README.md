@@ -58,6 +58,9 @@ sudo tshark -r mta1.pcap -T fields -e eth.src -e ip.src -e eth.dst -e ip.dst | s
 the compromised web site is [ciniholland.nl] and its ip_Address is [82.150.140.30]
 
 ![4 1](https://github.com/user-attachments/assets/cf19c8dd-ea32-41d9-a594-0cffb632b795)
+![4 2](https://github.com/user-attachments/assets/dd2045b2-ce18-46c5-a2a1-1bf594c5a749)
+![4 3](https://github.com/user-attachments/assets/3691f7b6-72e3-49f7-84db-2e577e98098c)
+
 
 
 
