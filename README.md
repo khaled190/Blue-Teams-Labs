@@ -1,4 +1,4 @@
-**#Cyberdefenders-Malware Traffic Analysis 1**
+#Cyberdefenders-Malware Traffic Analysis 1
 
 => The exercises gives a person knowledge on:
 
