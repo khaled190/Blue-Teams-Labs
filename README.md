@@ -15,3 +15,6 @@ Usually the pcaps are monitored and analysed using a free and open-source packet
 But here we will be using combination of several tools to understand the concept in a better way.
 
 The challenges can be downloaded [here](https://cyberdefenders.org/blueteam-ctf-challenges/?search_query=malware), protected by a password “cyberdefenders.org”.
+
+## Let’s start to answer the questions !!!
+### 1. What is the IP address of the Windows VM that gets infected?
