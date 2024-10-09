@@ -30,9 +30,17 @@ ip is [ 172.16.165.165 ]
 ![1 1](https://github.com/user-attachments/assets/af9629d1-6414-42a1-9dd3-6765780e1c91)
 
 ### 2. What is the hostname of the Windows VM that gets infected?
-### Answer: 
+### Answer:  
 Hostname is [ K34EN6W3N-PC ]
+
 ![2](https://github.com/user-attachments/assets/cbdff7f3-2a09-4ee5-8c2d-6b637c40c516)
+
+or
+![2 1](https://github.com/user-attachments/assets/3bb34aaf-ccec-4add-9e6e-2b8543a55ec3)
+
+### 3. What is the MAC address of the infected VM?
+
+
 
 
 
