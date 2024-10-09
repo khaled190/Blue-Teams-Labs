@@ -21,7 +21,8 @@ The challenges can be downloaded [here](https://cyberdefenders.org/blueteam-ctf-
 ### Answer: 
 ip is 172.16.165.165
 
-![1](https://github.com/user-attachments/assets/2cb88e87-3c89-49bb-b7fe-0866fe16f15e)
+![1](https://github.com/user-attachments/assets/ff875623-7264-4a4c-add7-229cd10dc309)
+
 
 
 
