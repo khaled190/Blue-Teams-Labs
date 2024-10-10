@@ -66,8 +66,18 @@ the compromised web site is [ciniholland.nl] and its ip_Address is [82.150.140.3
 
 ### Answer:
 
-FQDN = Hostname + Domain Name
-FQDN = "www.ciniholland.nl"
+You can determine the FQDN of the compromised website from question number 4.
+FQDN = Hostname + Domain Name.
+FQDN = "ciniholland.nl"
+
+### Q(6) What is the IP address of the server that delivered the exploit kit and malware?
+
+### Answer:
+
+IP addressis  37.200.69.143
+
+![6 0](https://github.com/user-attachments/assets/6f9a5efb-60cf-42ca-9b88-398530705e39)
+![6 1](https://github.com/user-attachments/assets/2b47e4b6-73da-4d7b-9e6e-35200037c4d9)
 
 
 
