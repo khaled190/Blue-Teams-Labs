@@ -67,7 +67,7 @@ the compromised web site is [ciniholland.nl] and its ip_Address is [82.150.140.3
 ### Answer:
 
 FQDN = Hostname + Domain Name
-FQDN = www.ciniholland.nl
+FQDN = "www.ciniholland.nl"
 
 
 
