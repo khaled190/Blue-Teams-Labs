@@ -62,6 +62,16 @@ the compromised web site is [ciniholland.nl] and its ip_Address is [82.150.140.3
 ![4 3](https://github.com/user-attachments/assets/3691f7b6-72e3-49f7-84db-2e577e98098c)
 
 
+### 5. What is the FQDN of the compromised website?
+
+### Answer:
+
+FQDN = Hostname + Domain Name
+FQDN = www.ciniholland.nl
+
+
+
+
 
 
 
