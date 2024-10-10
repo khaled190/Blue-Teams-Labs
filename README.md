@@ -78,6 +78,29 @@ IP addressis  37.200.69.143
 
 ![6 0](https://github.com/user-attachments/assets/6f9a5efb-60cf-42ca-9b88-398530705e39)
 ![6 1](https://github.com/user-attachments/assets/2b47e4b6-73da-4d7b-9e6e-35200037c4d9)
+![6 3](https://github.com/user-attachments/assets/fd790b52-bd94-47f4-ab95-316f1e3650a4)
+
+
+### 7. What is the FQDN that delivered the exploit kit and malware?
+
+### Answer:
+
+From the previous analysis we can conclude that the compromised site’s FQDN is stand.trustandprobaterealty.com
+
+
+### 8. What is the redirect URL that points to the exploit kit (EK) landing page?
+
+### Answer:
+
+the redirect URL is (http://24corp-shop.com)
+
+![8 0](https://github.com/user-attachments/assets/575bed49-94ff-4af6-bb29-a714bbd4e8cd)
+
+
+
+
+
+
 
 
 
