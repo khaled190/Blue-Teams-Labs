@@ -97,6 +97,21 @@ the redirect URL is "http:-//24corp-shop.co#"
 ![8 0](https://github.com/user-attachments/assets/575bed49-94ff-4af6-bb29-a714bbd4e8cd)
 
 
+### 9. Other than CVE-2013–2551 IE exploit, another application was targeted by the EK and starts with “J”. Provide the full application name.
+
+### Answer:
+
+Application name is Java --> Exploit:{Java/CVE-2012-0507}
+
+By useing Wireshark and look into the Export->object->HTTP
+
+![9](https://github.com/user-attachments/assets/f19b1f53-9ef5-4710-b3ca-9e7973dc599e)
+
+
+
+
+
+
 
 
 
