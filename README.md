@@ -92,7 +92,7 @@ From the previous analysis we can conclude that the compromised site’s FQDN is
 
 ### Answer:
 
-the redirect URL is #http://24corp-shop.com
+the redirect URL is "http:-//24corp-shop.co#"
 
 ![8 0](https://github.com/user-attachments/assets/575bed49-94ff-4af6-bb29-a714bbd4e8cd)
 
